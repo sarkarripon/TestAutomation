@@ -1,0 +1,46 @@
+2022-09-22 17:32:42,391 :INFO : testBlankSubmit :current url verified
+2022-09-22 17:32:45,657 :INFO : testBlankSubmit :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-22 17:32:48,585 :INFO : testFormData :first name, last name and email inserted
+2022-09-22 17:32:49,612 :INFO : testFormData :Address field data inserted
+2022-09-22 17:32:49,824 :INFO : testFormData :Country selected
+2022-09-22 17:32:51,278 :INFO : testFormData :Website url inserted
+2022-09-22 17:32:52,502 :INFO : testFormData :Item selected from dropdown menu
+2022-09-22 17:32:53,956 :INFO : testFormData :Date picked
+2022-09-22 17:32:55,189 :INFO : testFormData :multiple items selected
+2022-09-22 17:32:57,651 :INFO : testFormData :Musk input inserted
+2022-09-22 17:33:03,926 :INFO : testFormData :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-22 17:33:06,963 :INFO : testPullData :Hurray! API test passed. Obtained email is: hchnjf@sarkarripon.com
+2022-09-27 11:52:20,750 :INFO : testBlankSubmit :current url verified
+2022-09-27 11:52:24,021 :INFO : testBlankSubmit :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-27 11:52:27,186 :INFO : testFormData :first name, last name and email inserted
+2022-09-27 11:52:28,241 :INFO : testFormData :Address field data inserted
+2022-09-27 11:52:28,458 :INFO : testFormData :Country selected
+2022-09-27 11:52:29,895 :INFO : testFormData :Website url inserted
+2022-09-27 11:52:31,122 :INFO : testFormData :Item selected from dropdown menu
+2022-09-27 11:52:32,573 :INFO : testFormData :Date picked
+2022-09-27 11:52:33,785 :INFO : testFormData :multiple items selected
+2022-09-27 11:52:36,243 :INFO : testFormData :Musk input inserted
+2022-09-27 11:52:42,500 :INFO : testFormData :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-27 11:52:45,613 :INFO : testPullData :Hurray! API test passed. Obtained email is: demo@sarkarripon.com
+2022-09-27 11:58:24,233 :INFO : testBlankSubmit :current url verified
+2022-09-27 11:58:27,483 :INFO : testBlankSubmit :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-27 11:58:35,438 :INFO : testFormData :first name, last name and email inserted
+2022-09-27 11:58:36,488 :INFO : testFormData :Address field data inserted
+2022-09-27 11:58:36,705 :INFO : testFormData :Country selected
+2022-09-27 11:58:38,166 :INFO : testFormData :Website url inserted
+2022-09-27 11:58:39,397 :INFO : testFormData :Item selected from dropdown menu
+2022-09-27 11:58:40,848 :INFO : testFormData :Date picked
+2022-09-27 11:58:42,075 :INFO : testFormData :multiple items selected
+2022-09-27 11:58:44,537 :INFO : testFormData :Musk input inserted
+2022-09-27 11:58:50,794 :INFO : testFormData :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-27 12:00:58,609 :INFO : testBlankSubmit :current url verified
+2022-09-27 12:01:01,857 :INFO : testBlankSubmit :Text received from application is Thank you for your message. We will get in touch with you shortly
+2022-09-27 12:01:09,877 :INFO : testFormData :first name, last name and email inserted
+2022-09-27 12:01:10,928 :INFO : testFormData :Address field data inserted
+2022-09-27 12:01:11,144 :INFO : testFormData :Country selected
+2022-09-27 12:01:12,593 :INFO : testFormData :Website url inserted
+2022-09-27 12:01:13,815 :INFO : testFormData :Item selected from dropdown menu
+2022-09-27 12:01:15,262 :INFO : testFormData :Date picked
+2022-09-27 12:01:16,493 :INFO : testFormData :multiple items selected
+2022-09-27 12:01:18,956 :INFO : testFormData :Musk input inserted
+2022-09-27 12:01:25,212 :INFO : testFormData :Text received from application is Thank you for your message. We will get in touch with you shortly

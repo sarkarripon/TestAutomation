@@ -1,0 +1,6 @@
+/.pytest_cache/
+practice.py
+API_test.py
+/test/.pytest_cache
+/.DS_Store
+/.idea
